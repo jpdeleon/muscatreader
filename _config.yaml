@@ -1,0 +1,6 @@
+
+title: muscatreader
+description: .dat to .nc file conversion for the MuSCAT project
+show_downloads: true
+google_analytics:
+remote_theme: pmarsceill/just-the-docs
